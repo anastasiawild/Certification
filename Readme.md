@@ -7,3 +7,5 @@
 
 #### Решение на C#
 _файл final.cs_
+#### Блок-схема
+![alt text](block_diagram.png)
